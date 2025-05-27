@@ -48,8 +48,8 @@ Desde el directorio raíz del proyecto, en Linux:
 
 ## 👤 Autores
 
-- [@Federico Javier González Ubiedo](https://github.com/Ubiedo)
-- @Juan Pablo Otero
-- [@Marcos Baptista Fagundez](https://github.com/Colorcito)
-- @Roque Serrato
-- @Matias Silvera 
+- [Federico Javier González Ubiedo](https://github.com/Ubiedo)
+- Juan Pablo Otero
+- [Marcos Baptista Fagundez](https://github.com/Colorcito)
+- Roque Serrato
+- Matias Silvera 
