@@ -49,7 +49,7 @@ Desde el directorio raíz del proyecto, en Linux:
 ## 👤 Autores
 
 - [Federico Javier González Ubiedo](https://github.com/Ubiedo)
-- Juan Pablo Otero
+- [Juan Pablo Otero](https://github.com/juampaote)
 - [Marcos Baptista Fagundez](https://github.com/Colorcito)
 - Roque Serrato
 - Matias Silvera 
